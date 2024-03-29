@@ -1,0 +1,2 @@
+Symptom1:Diagnosis 1
+Symptom2:Diagnosis 2
