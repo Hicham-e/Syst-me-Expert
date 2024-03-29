@@ -1,2 +1,5 @@
-Symptom1:Diagnosis 1
-Symptom2:Diagnosis 2
+Ecran noir:Panne de l'ecran ou du GPU
+Demarrage lent:Probleme de disque dur ou de RAM
+Bruit anormal:Probleme de ventilateur ou de disque dur
+Pas de connexion Internet:Probleme de carte reseau ou de modem
+Fichiers corrompus:Probleme de disque dur ou de memoire
